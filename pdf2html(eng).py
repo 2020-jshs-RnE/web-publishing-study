@@ -1,5 +1,5 @@
 import camelot
-file = "C:/Users/sjshb/Desktop/js/테스트.pdf"
+file = "경로.pdf"
 tables = camelot.read_pdf(file)
 #print(tables[0].df)
-tables.export("C:/Users/sjshb/Desktop/js/테스트.html", f = "html")
+tables.export("경로.html", f = "html")
