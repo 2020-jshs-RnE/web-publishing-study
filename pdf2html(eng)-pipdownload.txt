@@ -1,0 +1,3 @@
+참고사이트:https://medium.com/@marizu_makozi/extracting-tables-in-pdf-using-python-d520b6d8a66
+
+pip install camelot-py[cv]
